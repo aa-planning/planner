@@ -1,18 +1,6 @@
-import styled from 'tailwind';
-
-const StyledPage = styled.div`
-  .page {
-  }
-`;
-
 export function Index() {
-  /*
-   * Replace the elements below with your own.
-   *
-   * Note: The corresponding styles are in the ./index.tailwind file.
-   */
   return (
-    <StyledPage>
+    <div>
       <div className="wrapper">
         <div className="container">
           <div id="welcome">
@@ -469,7 +457,7 @@ export function Index() {
           </p>
         </div>
       </div>
-    </StyledPage>
+    </div>
   );
 }
 

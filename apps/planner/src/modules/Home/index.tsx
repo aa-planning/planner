@@ -6,7 +6,7 @@ export function Home() {
 
   return <div className="text-white">
     <ThemeProvider>
-      
+      <></>
     </ThemeProvider>
   </div>
 }

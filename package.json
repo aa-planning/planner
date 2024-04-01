@@ -8,6 +8,8 @@
   },
   "private": true,
   "dependencies": {
+    "@mantine/core": "^7.7.1",
+    "@mantine/hooks": "^7.7.1",
     "autoprefixer": "^10.4.19",
     "clsx": "^2.1.0",
     "next": "14.0.4",

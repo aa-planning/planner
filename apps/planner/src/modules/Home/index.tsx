@@ -6,8 +6,7 @@ export function Home() {
 
   return <div className="text-white">
     <ThemeProvider>
-      <Tag />
-      <Badge />
+      
     </ThemeProvider>
   </div>
 }
